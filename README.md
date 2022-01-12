@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1150" height="430" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="center" alt="Coding" width="1050" height="370" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Abdullah Irfan</h1>
 <h3 align="center">A full stack web developer and an engineering student</h3>
